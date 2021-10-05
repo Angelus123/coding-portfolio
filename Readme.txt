@@ -1,4 +1,1 @@
-plate!
-
-Template Name: iPortfolio
 
